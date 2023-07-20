@@ -71,7 +71,7 @@ for i in range(1,len(values[1])):
         im_sum = im_sum + row['weight']*im_fib
         
         #imlist.append(im_sum)
-        imlist['fib2d'].append(im_sum)
+    imlist['fib2d'].append(im_sum)
 	#print(imlist['fib2d'])
        # print(np.array(values[1][i]))
        # print(imlist['id'][i])
